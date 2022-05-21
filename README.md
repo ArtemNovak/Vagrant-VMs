@@ -7,7 +7,7 @@ This repo was created to store several of prepared vagrant configurations.
 | ------ | ------| ------|
 | Ubuntu 18.04 | __[ubuntu18.04/versions/0.0.1](https://app.vagrantup.com/artemnovak/boxes/ubuntu18.04/versions/0.0.1)__ | __Git, Java 17, Docker, nginx__ |
 | Centos 7 | __[centos7-jenkins/versions/0.0.1](https://app.vagrantup.com/artemnovak/boxes/centos7-jenkins/versions/0.0.1)__ | __Git, Java 17, Jenkins__ |
-
+| Ubuntu, Centos | Ansible playground |
 
 To be continued... :smile::smile:
 

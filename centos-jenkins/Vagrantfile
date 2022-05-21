@@ -2,6 +2,7 @@ Vagrant.configure("2") do |config|
   config.vm.box = 'artemnovak/centos7-jenkins'
   config.vm.hostname = 'jenkins'
   config.vm.define 'jenkins-centos7'
+  config.vm.box_check_update = false
 
   config.vm.network "forwarded_port", guest: 8080, host: 8080, auto_correct: true
 
